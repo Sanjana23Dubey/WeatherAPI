@@ -1,0 +1,6 @@
+﻿Build started at 11:49...
+1>------ Build started: Project: WeatherApp, Configuration: Debug Any CPU ------
+1>  Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>  WeatherApp -> C:\Users\sanjana\source\repos\WeatherApp\WeatherApp\bin\Debug\net10.0\WeatherApp.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 11:49 and took 01.435 seconds ==========
